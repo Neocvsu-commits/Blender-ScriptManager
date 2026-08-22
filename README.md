@@ -36,7 +36,7 @@ Blender 插件的 N 面板标签页，集中管理你积累的 Python 脚本—�
 ## 安装
 
 1. Blender → Edit → Preferences → Add-ons → Install
-2. 选择 `blender_script_manager.py`
+2. 选择 `script_manager.py`
 3. 勾选启用
 4. 在偏好设置中指定**脚本目录**（默认 `E:\Users\Administrator\Desktop\Blender脚本整理`）
 
